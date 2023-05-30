@@ -1,6 +1,6 @@
 
 #------Morese alphabet
-#rules: space between 2 letters: 3 spaces, space between 2 words: 7 spaces
+#rules: space between 2 words: 7 spaces
 
 alphabet={
 'a': ".-",
